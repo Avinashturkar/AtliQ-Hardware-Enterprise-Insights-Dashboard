@@ -108,6 +108,8 @@ The dashboard draws data from multiple sources to provide a comprehensive view o
 
 ![Data Sources](https://github.com/Avinashturkar/AtliQ-Hardware-Enterprise-Insights-Dashboard/raw/main/Data%20Source.png)
 
+Additional Data Sources: Excel files containing Market Share data (comparing AtliQ to competitors), Operational Expenses data (advertising and promotional expenses), and Targets for 2022 (key performance goals).
+
 #### 2.1.3 Key Tables and Content
 
 **Table 1: gdb041 Database Tables**
