@@ -472,3 +472,8 @@ The following recommendations, derived from the 2022 data analysis within the En
 ## 7. Conclusion
 
 The Enterprise Insights Dashboard provides AtliQ Hardware with a powerful tool for data-driven decision-making. The insights derived from the dashboard, along with the recommendations outlined in this document, can help AtliQ Hardware improve its financial performance, optimize its operations, and strengthen its competitive position. Successful implementation of these recommendations requires commitment from leadership, collaboration across departments, and a continued focus on leveraging data to drive strategic initiatives. As the developer of this dashboard, I am confident that it will be a valuable asset to AtliQ Hardware and enable the company to achieve its strategic goals.
+
+## About the Author
+
+Connect with me on LinkedIn:
+[https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/avinash-turkar-b43b07163)
